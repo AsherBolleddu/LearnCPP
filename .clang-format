@@ -9,3 +9,4 @@ EnumTrailingComma: Insert
 SpaceBeforeCpp11BracedList: true
 Cpp11BracedListStyle: false
 AccessModifierOffset: -4
+AllowShortFunctionsOnASingleLine: Inline
